@@ -1,7 +1,7 @@
 # crud-user
 
 API Crud para manipular cadastros de usuários, utilizando Spring Boot com o gerenciador de dependências Maven.
-
+Com intuito de colocar em prática toda abstração de connhecimento adquiridos nos estudos sobre modelagem e arquitertura de software, utlizando as melhores práticas.
 # java
 
 # DDD Domain Driven Desing
